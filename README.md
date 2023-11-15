@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thumasb
-- 👀 I’m interested in teaching, IT, gamning, sports
+- 👀 I’m interested in teaching, IT, gaming, sports
 - 🌱 I’m currently learning how to teach
 
 <!---
